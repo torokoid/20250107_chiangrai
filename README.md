@@ -140,7 +140,7 @@ p.note { display: none; }
 <h2><span class="yellow">最新のEVタクシーには珍しく仏像さんは居ませんでした</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">通行している道にはお祈りする仏像様がいます</span></h2>
+<h2><span class="yellow">通行している道の中央分離帯にはお祈りする仏像様がいます</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_021.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">各家庭の庭には仏壇は必ずあります</span></h2>
