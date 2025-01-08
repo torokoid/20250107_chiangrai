@@ -134,21 +134,37 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">1月3日、ニワトリ小屋を設置する部分の地ならしを開始<br>当初から作る予定でしたが、雛が一気に増えてニーズ急騰！</span></h2>
-
+<h2><span class="yellow">既出の画像ですが、タイ人の車のインパネに鎮座する仏像<br>この車にはルームミラーからもぶら下がってます</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_002.jpg" target="_blank"><img src="https://hamata636.github.io/2023thailand/Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最新のタクシーには珍しく仏像さんは居ませんでした</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">通行している道にはお祈りする仏像様がいます</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_021.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">各家庭の庭には仏壇は必ずあります</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" target="_blank"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お寺の塔は金箔が施されて、夜にはライトアップ！</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_057.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_057.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="20250107_001.JPG" target="_blank"><img src="20250107_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250107_002.JPG" target="_blank"><img src="20250107_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250107_003.JPG" target="_blank"><img src="20250107_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">車で2時間ほどのチェンマイから知り合いがドライバー付きのレンタカーで来てくれたので乗ってみました</span></h2>
 <a href="20250107_004.JPG" target="_blank"><img src="20250107_004.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">インパネ周りは仏教色が色濃く出てます</span></h2>
+<a href="20250107_001.JPG" target="_blank"><img src="20250107_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">以上、今回もニワトリの話ばかりでしたが、ここまで観ていただきありがとうございました。</span></h2>
+<h2><span class="yellow">仏像様のサイズは特大でした</span></h2>
+<a href="20250107_002.JPG" target="_blank"><img src="20250107_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">インパネのみならず、Dr席のルーフにも何か描かれています</span></h2>
+<a href="20250107_003.JPG" target="_blank"><img src="20250107_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20250107_005.JPG" target="_blank"><img src="20250107_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250107_006.JPG" target="_blank"><img src="20250107_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">以上、今回はちょっと毛色の違った話でしたが、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
