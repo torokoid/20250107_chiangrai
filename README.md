@@ -146,7 +146,7 @@ p.note { display: none; }
 <h2><span class="yellow">各家庭の庭には仏壇は必ずあります</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" target="_blank"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お寺の塔は金箔が施されて、夜にはライトアップ！</span></h2>
+<h2><span class="yellow">お寺の塔は金箔が施されて、夜にはライトアップ！<br>これだけ派手に飾っても資金破綻しないのは民衆の寄付額によるところですね</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_057.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_057.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">車で2時間ほどのチェンマイから知り合いがドライバー付きのレンタカーで来てくれたので乗ってみました</span></h2>
@@ -161,9 +161,18 @@ p.note { display: none; }
 <h2><span class="yellow">インパネのみならず、Dr席のルーフにも何か描かれています</span></h2>
 <a href="20250107_003.JPG" target="_blank"><img src="20250107_003.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">人々の仏教に注ぐリソース量が日本と全く違います</span></h2>
+
+<br><br><br><br><br><br>
+
+<h2><span class="yellow">ふと身の回りに目を向けると、綺麗なお花や庭からこちらを伺うアヒルたち</span></h2>
 <a href="20250107_005.JPG" target="_blank"><img src="20250107_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250107_006.JPG" target="_blank"><img src="20250107_006.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">理科系的な解釈だとこれらとの出会いは確率的に発生する偶然ですが<br>宗教色の強い世界に居ると何か運命的なものなのかも？と思えてくるのが不思議です</span></h2>
+
+
+<br><br><br>
 <h2><span class="yellow">以上、今回はちょっと毛色の違った話でしたが、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
