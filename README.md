@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">既出の画像ですが、タイ人の車のインパネに鎮座する仏像<br>この車にはルームミラーからもぶら下がってます</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_002.jpg" target="_blank"><img src="https://hamata636.github.io/2023thailand/Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">最新のタクシーには珍しく仏像さんは居ませんでした</span></h2>
+<h2><span class="yellow">最新のEVタクシーには珍しく仏像さんは居ませんでした</span></h2>
 <a href="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" target="_blank"><img src="https://torokoid.github.io/20241122_chiangrai/20241122_018.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">通行している道にはお祈りする仏像様がいます</span></h2>
